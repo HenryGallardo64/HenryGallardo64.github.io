@@ -13,4 +13,4 @@ Lab 11 would be my second favorite lab because it challenged me the most. The mo
 
 
 Lab 8 part 2
-I enjoyed lab 8 because this is when we started to integrate “Loops”. I would say that loops are one of the more difficult topics we covered in this class. I enjoyed seeing it all work together while learning to understand, and seeing your code work was the best.
+I enjoyed lab 8 because this is when we started to integrate “Loops”. I would say that loops are one of the more difficult topics we covered in this class. I enjoyed seeing it all work together while learning to understand, and seeing your code work was the a good feeling.
